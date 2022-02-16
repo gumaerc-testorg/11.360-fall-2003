@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Visiting Lecture
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-360-community-growth-and-land-use-planning-fall-2003/1ca87b195641124f176867f4a7b5c1a6_the_art_of_swamp_yankee_making.pdf
+file: /media/courses/11-360-community-growth-and-land-use-planning-fall-2003/1ca87b195641124f176867f4a7b5c1a6_the_art_of_swamp_yankee_making.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: the_art_of_swamp_yankee_making.pdf
 uid: 1ca87b19-5641-124f-1768-67f4a7b5c1a6

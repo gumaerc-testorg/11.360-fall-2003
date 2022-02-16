@@ -6,8 +6,13 @@ description: This document, commissioned by the Town of Needham Planning Board, 
   state and federal authorities. This plan was prepared by a group of eight graduate
   students at the Massachusetts Institute of Technology Department of Urban Studies
   and Planning in the Fall of 2003.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-360-community-growth-and-land-use-planning-fall-2003/2dd93895e8d4bdeb37422e87e944e395_team3.pdf
+file: /media/courses/11-360-community-growth-and-land-use-planning-fall-2003/2dd93895e8d4bdeb37422e87e944e395_team3.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: team3.pdf
 uid: 2dd93895-e8d4-bdeb-3742-2e87e944e395
