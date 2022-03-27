@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: ea40aa35-2ad4-73e1-98c4-da80c4e2d5d3
 resourcetype: Document
 title: leenewman.pdf
 uid: fbfacd8b-ce3d-5b06-10a6-8dc625bc2dae

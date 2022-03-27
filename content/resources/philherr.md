@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: b14b4f3d-493c-3948-f6a2-207a6eb9adca
 resourcetype: Document
 title: philherr.pdf
 uid: f7481654-109d-848b-d508-97b96b26ebbb

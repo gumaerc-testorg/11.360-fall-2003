@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: b14b4f3d-493c-3948-f6a2-207a6eb9adca
 resourcetype: Document
 title: the_art_of_swamp_yankee_making.pdf
 uid: 1ca87b19-5641-124f-1768-67f4a7b5c1a6
