@@ -1,19 +1,21 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, the course project and the scope of work.
+draft: false
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: e4767e2d-65f1-a120-be40-275336c961d4
 ---
-
-Course Meeting Times
---------------------
+## Course Meeting Times
 
 Lectures: 2 sessions / week, 1.5 hours / session
 
-Course Description
-------------------
+## Course Description
 
-"The old planning model, rooted in nineteenth-century concepts of science and engineering, is either dead or severely impaired.... Non-Euclidian Planning is decentered, privileging regions and localities.... It encourages the affected population to take an active part, and, thus, validates the experiential knowledge of ordinary people and promotes mutual learning between the planning expert and the affected population.... Non-Euclidian planning operates in real time by linking knowledge and action into a tightly looped process of strategic change.... Though planners remain free to choose, action in the public domain should be justified as that which furthers the cause of human flourishing and diversity throughout the world."  
-\-- John Friedmann, 1993
+> "The old planning model, rooted in nineteenth-century concepts of science and engineering, is either dead or severely impaired…. Non-Euclidian Planning is decentered, privileging regions and localities…. It encourages the affected population to take an active part, and, thus, validates the experiential knowledge of ordinary people and promotes mutual learning between the planning expert and the affected population…. Non-Euclidian planning operates in real time by linking knowledge and action into a tightly looped process of strategic change…. Though planners remain free to choose, action in the public domain should be justified as that which furthers the cause of human flourishing and diversity throughout the world."   
+> \-- John Friedmann, 1993
 
 This subject explores the techniques, processes, and personal and professional skills required to effectively manage growth and land use change. While primarily focused on the planning practice in the United States, the principles and techniques reviewed and presented may have international application. This course is not for bystanders; it is designed for those who wish to become actively involved or exposed to the planning discipline and profession as it is practiced today, and as it may need to be practiced in the future.
 
@@ -27,13 +29,11 @@ No prior training or experience in physical planning or urban design is assumed,
 
 Student evaluations will be principally based upon contributions to the community planning project, including the preparation of the final plan report, participation in mid-term and final presentations of the plan to the client and others, and submission of a short "synthesis paper" about the planning project. Participation in class discussion will also be a significant factor in final grade evaluations.
 
-Needham Center Plan
--------------------
+## Needham Center Plan
 
 A project to be undertaken and a Plan to be prepared for the Town of Needham, Massachusetts, by graduate students enrolled in the fall 2003, Community Growth and Land Use Planning course, Department of Urban Studies and Planning, Massachusetts Institute of Technology.
 
-Scope of Work
--------------
+## Scope of Work
 
 ### Background, Goals, and Project Area
 
@@ -53,14 +53,14 @@ Needham Center is a typical town center, complete with a Town Hall, Town Common,
 
 The Plan will involve consideration and analysis of the existing land use pattern(s) and visual and economic characteristics of the defined area, and will result prioritized strategies and recommendations to improve and enhance the area. The following products are expected to result from the Plan:
 
-*   Development of realistic recommendations to enhance both the entire area and specific properties, including recommendations for land use, streetscape and landscape improvements and amenities to help unify the area, all geared toward promoting greater imageability and a "sense of place";
-*   Identification of conceptual pedestrian and vehicular access and circulation improvements (along and across the area to be studied, with appropriate links to open space areas);
-*   Conceptual recommendations and reuse strategies for encouraging the inclusion of affordable housing either as a solitary use or in a mixed use context;
-*   Conceptual recommendations and reuse strategies for high visibility or key parcels that are likely to have major reuse or redevelopment potential;
-*   Specific recommendations for increasing the availability of parking to service anticipated redevelopment options including provision of structured parking facilities either above or below ground;
-*   Specific recommendations for strengthening, nurturing, and promoting connections to greenspace and to the adjoining neighborhood and commercial areas;
-*   Conceptual design guidelines and incentives that could be considered by the Town to foster planning objectives; and
-*   Suggested revisions to the Zoning Bylaw (both map and text amendments) to support plan objectives, including potential revisions to existing zoning requirements and zoning district boundaries.
+- Development of realistic recommendations to enhance both the entire area and specific properties, including recommendations for land use, streetscape and landscape improvements and amenities to help unify the area, all geared toward promoting greater imageability and a "sense of place";
+- Identification of conceptual pedestrian and vehicular access and circulation improvements (along and across the area to be studied, with appropriate links to open space areas);
+- Conceptual recommendations and reuse strategies for encouraging the inclusion of affordable housing either as a solitary use or in a mixed use context;
+- Conceptual recommendations and reuse strategies for high visibility or key parcels that are likely to have major reuse or redevelopment potential;
+- Specific recommendations for increasing the availability of parking to service anticipated redevelopment options including provision of structured parking facilities either above or below ground;
+- Specific recommendations for strengthening, nurturing, and promoting connections to greenspace and to the adjoining neighborhood and commercial areas;
+- Conceptual design guidelines and incentives that could be considered by the Town to foster planning objectives; and
+- Suggested revisions to the Zoning Bylaw (both map and text amendments) to support plan objectives, including potential revisions to existing zoning requirements and zoning district boundaries.
 
 The "Final Plan" document will include the inventory and analysis conducted, along with recommendations and other accompanying features and details, which are likely to include maps, illustrations, tables, and relevant data and information.
 
@@ -68,5 +68,5 @@ Two formal presentations related to the Plan will be made by student teams to th
 
 An initial "project briefing" session with the Director of Planning will be held to acquaint students with the scope of the project. This briefing will be held in Session 2 during class time at MIT.
 
-Start Date: Session 2  
+Start Date: Session 2   
 Completion Date: Session 27
