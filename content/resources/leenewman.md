@@ -5,6 +5,7 @@ file: /courses/11-360-community-growth-and-land-use-planning-fall-2003/fbfacd8bc
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: leenewman.pdf
 uid: fbfacd8b-ce3d-5b06-10a6-8dc625bc2dae
 ---
 Presentation slides on Needham.
-

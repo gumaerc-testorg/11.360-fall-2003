@@ -5,6 +5,7 @@ file: /courses/11-360-community-growth-and-land-use-planning-fall-2003/f74816541
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: philherr.pdf
 uid: f7481654-109d-848b-d508-97b96b26ebbb
 ---
 Visiting Lecturer's presentation slides.
-

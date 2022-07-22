@@ -5,6 +5,7 @@ file: /courses/11-360-community-growth-and-land-use-planning-fall-2003/b953897b2
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: team1.pdf
 uid: b953897b-20c1-0f97-ee6e-bbb55eacbf4c
 ---
 This plan addresses a Study Area selected by the Town of Needham.
-
