@@ -3,6 +3,7 @@ content_type: resource
 description: This plan articulates Needham?s vision for its town center and demonstrates
   the steps necessary to achieve it.
 file: /courses/11-360-community-growth-and-land-use-planning-fall-2003/493bd575c48e337bab5e6cd8f5796fd0_team4.pdf
+file_size: 1670126
 file_type: application/pdf
 learning_resource_types:
 - Projects
