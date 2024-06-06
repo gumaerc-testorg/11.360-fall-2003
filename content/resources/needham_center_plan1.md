@@ -5,6 +5,7 @@ description: A project to be undertaken and a Plan to be prepared for the Town o
   enrolled in the fall 2003, Community Growth and Land Use Planning course, Department
   of Urban Studies and Planning, Massachusetts Institute of Technology.
 file: /courses/11-360-community-growth-and-land-use-planning-fall-2003/65f9de60976547ade2f28db8aea7e97b_needham_center_plan1.pdf
+file_size: 121965
 file_type: application/pdf
 learning_resource_types:
 - Projects

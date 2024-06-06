@@ -5,6 +5,7 @@ description: This report is the outcome of the graduate course Community Growth 
   We were charged by Lee Newman, Planning Director of Needham, to identify strategies
   that will help foster appropriate development and revitalization in Needham Center.
 file: /courses/11-360-community-growth-and-land-use-planning-fall-2003/e584c500b08514558dc310ea91429b4e_team2.pdf
+file_size: 2288163
 file_type: application/pdf
 learning_resource_types:
 - Projects
