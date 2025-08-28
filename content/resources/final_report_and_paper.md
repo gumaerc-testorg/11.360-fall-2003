@@ -2,7 +2,7 @@
 content_type: resource
 description: This memo will serve to convey expectations and requirements regarding
   the preparation of final class reports.
-file: /courses/11-360-community-growth-and-land-use-planning-fall-2003/7e7f2b0cbc2b58b84ce5b78e31641363_final_report_and_paper.pdf
+file: /ol-ocw-studio-app/courses/11-360-community-growth-and-land-use-planning-fall-2003/7e7f2b0cbc2b58b84ce5b78e31641363_final_report_and_paper.pdf
 file_size: 82846
 file_type: application/pdf
 learning_resource_types:
