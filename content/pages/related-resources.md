@@ -10,24 +10,24 @@ uid: d7277e96-2b48-7863-df3c-5e94858e5abf
 ---
 ## Web Links
 
-[City of Newton, MA: Planning and Development Recommendations from MIT](https://web.archive.org/web/20120615044315/http://www.newtonma.gov/gov/planning/reports/intro.asp)
+{{% resource_link "2a1b6097-1be2-4d53-a988-59735cec4181" "City of Newton, MA: Planning and Development Recommendations from MIT" %}}
 
-[City of Hopkins, MN: Downtown Design Guidelines](http://www.hopkinsmn.com/development/downtown.php)
+{{% resource_link "01a27037-a728-47ce-a45b-d37e1726e6f6" "City of Hopkins, MN: Downtown Design Guidelines" %}}
 
-[City of Dana Point: Design Guidelines](http://www.danapoint.org/)
+{{% resource_link "0d797dda-a92b-43ed-9447-dfe97725e3de" "City of Dana Point: Design Guidelines" %}}
 
-[City of Coquitlam: Design Guidelines](http://www.coquitlam.ca/Business/Developing+Coquitlam/Strategic+Plans/Design+Guidelines.htm)
+{{% resource_link "5c327094-0cbb-432e-9eec-26150b9d4d39" "City of Coquitlam: Design Guidelines" %}}
 
-[City of Austin: Downtown Austin Design Guidelines](https://www.austintexas.gov/sites/default/files/files/Boards_and_Commissions/Design_Commission_urban_design_guidelines_for_austin.pdf)
+{{% resource_link "5c24d610-6b5d-4e0a-8595-fbef34958a6c" "City of Austin: Downtown Austin Design Guidelines" %}}
 
-[Traffic Calming Measures - Speed Hump](http://www.ite.org/traffic/hump.asp)   
+{{% resource_link "1458aac7-e1bd-4f65-ab13-65776f16ac2f" "Traffic Calming Measures - Speed Hump" %}}   
 Design, Implementation, Potential Impacts and Cost of Speed Humps.
 
-[Traffic Calming, State of the Practice, ITE, U.S. DOT, FHWA](http://www.ite.org/traffic/tcstate.asp)   
+{{% resource_link "97a223a0-40b2-4e3b-a570-38727b7a0403" "Traffic Calming, State of the Practice, ITE, U.S. DOT, FHWA" %}}   
 This report contains a synthesis of traffic calming experiences to date in the United States and Canada. It includes information on traffic calming in residential areas and in areas where high speed rural highways transition into rural communities.
 
-[Take Back Your Streets](http://contextsensitivesolutions.org/content/reading/take-back-your-streets/)   
+{{% resource_link "8a3816c9-35ad-4053-be78-a2110dec400e" "Take Back Your Streets" %}}   
 How to Protect Communities from Asphalt and Traffic Conservation Law Foundation (Revised: January 1998).
 
-Visualising Density: Lower Density Catalog Images ([PDF](https://www.jtc.sala.ubc.ca/bulletins/visualizing%20density%20B%209.1-134.5%20upa.pdf))   
+Visualising Density: Lower Density Catalog Images ({{% resource_link "33301c0d-2af0-4f1e-9057-4cf40fd1b300" "PDF" %}})   
 Lincoln Institute of Land Policy - Working paper by Julie Campoli and Alex S. MacLean. Has images of various densities from .5 units/acre to 10.5 units/acre.
